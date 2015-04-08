@@ -1,0 +1,14 @@
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\Background.png
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.myapp04d74ba2177f448688e0f5b711d846c7.dll
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.myapp04d74ba2177f448688e0f5b711d846c7.pdb
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\App.g.cs
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\io.cordova.myapp04d74ba2177f448688e0f5b711d846c7.g.resources
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\io.cordova.myapp04d74ba2177f448688e0f5b711d846c7.dll
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\io.cordova.myapp04d74ba2177f448688e0f5b711d846c7.pdb
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\wp8\obj\Debug\XapCacheFile.xml

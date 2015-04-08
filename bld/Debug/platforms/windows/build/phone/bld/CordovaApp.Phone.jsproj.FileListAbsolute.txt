@@ -1,0 +1,17 @@
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\debug\anycpu\resources.pri
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\priconfig.xml
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\layout.resfiles
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\resources.resfiles
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\pri.resfiles
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\qualifiers.txt
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\package.map.txt
+D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\build\phone\bld\_pkginfo.txt
