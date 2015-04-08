@@ -110,6 +110,7 @@
     <VisualStudioVersion>12.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="www\cdv-plugin-fb-connect.js" />
     <Content Include="www\css\index.css" />
     <Content Include="www\index.html" />
     <Content Include="www\scripts\index.js" />
