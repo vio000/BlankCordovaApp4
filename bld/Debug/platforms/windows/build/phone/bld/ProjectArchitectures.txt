@@ -1,1 +1,0 @@
-D:\Projects\GitHub\BlankCordovaApp4\bld\Debug\platforms\windows\CordovaApp.Phone.jsproj;neutral
