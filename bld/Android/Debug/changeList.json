@@ -53,14 +53,16 @@
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
     "res\\screens\\android\\screen-mdpi-portrait.png",
     "www\\scripts\\index.js",
+    "www\\facebookConnectPlugin.js",
     "www\\css\\index.css",
     "www\\scripts\\platformOverrides.js",
-    "www\\index.html",
-    "www\\cdv-plugin-fb-connect.js"
+    "www\\fb.txt",
+    "www\\index.html"
   ],
   "deletedFilesIos": [
     "www\\cdv-plugin-fb-connect.js.js",
-    "cdv-plugin-fb-connect.js.js"
+    "cdv-plugin-fb-connect.js.js",
+    "www\\cdv-plugin-fb-connect.js"
   ],
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
